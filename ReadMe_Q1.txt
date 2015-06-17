@@ -1,0 +1,1 @@
+When running Q1.cpp, wait for a while for it to create and print a 320*240 array as instructed.

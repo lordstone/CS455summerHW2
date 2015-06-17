@@ -1,0 +1,1 @@
+This Q3.cpp and Q3.h will generate a Mandelbrot graph as instructed of the range of [-2,-1]x[1,1]. as "fractal.pgm"
